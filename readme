@@ -1,7 +1,6 @@
 UIRAWSSG
 
 About
-
 uirawssg is one of the official repositories used natively by the rawssg project.
 
 This repository focuses on the UI and UX layers within the rawssg ecosystem. The components within it are responsible for the user interaction experience, display consistency, and interface structure used by the system.
@@ -9,26 +8,22 @@ This repository focuses on the UI and UX layers within the rawssg ecosystem. The
 uirawssg does not stand alone as a separate product. It is part of the rawssg modular architecture, designed so that each component can be developed and maintained independently.
 
 Role in the Ecosystem
-
 Within the rawssg structure, uirawssg has the following responsibilities:
 
-* Managing user interface components
-* Providing a consistent user experience layer
-* Supporting integration with the core engine
-* ​​Interacting with the template system
+· Managing user interface components
+· Providing a consistent user experience layer
+· Supporting integration with the core engine
+· Interacting with the template system
 
 This separation is done to keep the architecture clean, structured, and extensible without mixing engine logic with presentation logic.
 
 Relationship to rawssg
-
 The main rawssg repository can be found at:
-
-[https://github.com/neuxdotdev/rawssg.git]
+https://github.com/neuxdotdev/rawssg.git
 
 To understand the full context of uirawssg's use, it is recommended to review the documentation and architecture of the main repository.
 
 Note
-
 uirawssg is developed as part of rawssg's modular approach. Changes to this repository may directly impact the user experience within the main system.
 
 Development is guided by the principles of simplicity, consistency, and long-term maintainability.
